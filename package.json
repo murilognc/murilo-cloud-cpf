@@ -1,0 +1,14 @@
+{
+ "name": "murilo-cloud-cpf",
+ "version": "1.0.0",
+ "description": "API para validar cpf",
+ "author": "Murilo Costa <murilo.g.costa@cogna.com.br>",
+ "main": "server.js",
+ "scripts": {
+ 	"start": "node server.js"
+ },
+ "dependencies": {
+ "express": "^4.16.1",
+ "validar-cpf": "^2.0.4"
+ }
+}
